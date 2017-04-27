@@ -2,8 +2,16 @@
 
 
 Open Processing Link to Early Beta
-https://www.openprocessing.org/sketch/423131
+https://www.openprocessing.org/sketch/424077
 (Sketch Takes a While to Load All Data)
+
+Edit Notes for 4/27/17 5:55PM
+Added Backspace Functionality
+Reset Functions Added
+Matched Up to OpenProcessing, Bugs Are Cleaned Up
+Future Functionality To Still Incorporate:
+--Tighten Up Input Mechanics/Processing--
+--Maybe Add a Recursion Image--
 
 Edit Notes for 4/26/17 1:23PM
 Comments Were Added To First Beta,
