@@ -5,6 +5,14 @@ Open Processing Link to Early Beta
 https://www.openprocessing.org/sketch/424077
 (Sketch Takes a While to Load All Data)
 
+Edit Notes for 4/29/17 2:38PM
+Added Many Comments
+Tightened up Input Functionality
+Recursion Image Will Not Be Added, Requires Too Much of an Overhaul and Change of Core Input Mechanics
+Things To Consider:
+--More Comments
+--Additional Rapper
+
 Edit Notes for 4/27/17 5:55PM
 Added Backspace Functionality
 Reset Functions Added
