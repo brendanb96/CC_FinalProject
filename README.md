@@ -1,9 +1,18 @@
 # CC_FinalProject
 
 
-Open Processing Link to Early Beta
-https://www.openprocessing.org/sketch/424077
+Open Processing Link to Alpha
+https://www.openprocessing.org/sketch/425050
 (Sketch Takes a While to Load All Data)
+(Also Uses a Bit of Processing Due to Image Processing)
+
+Edit Notes for 5/2/17 9:16AM
+Completed Comments
+Reorganized Some Code Structure For Easy Formatting / Readability
+Added Scalability (Removed Concrete Values in Place of Variables)
+--Someone Can Take Code and Input Different Sized Images
+--Canvas Can Be Scaled To Any Size (Though Warning: Images Use A Lot Of Processing, Anything Passed ~900*900 Will Use A LOT Your Processing)
+Did Not Add Another Rapper
 
 Edit Notes for 4/29/17 2:38PM
 Added Many Comments
